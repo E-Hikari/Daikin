@@ -1823,3 +1823,19 @@ section {
     padding-top: 4px;
   }
 }
+
+.features-page .icon-box {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.features-page .icon-box .icon {
+  font-size: 5em;
+  margin: auto;
+}
+
+.features-page .icon-box h4 {
+  margin: auto;
+}
